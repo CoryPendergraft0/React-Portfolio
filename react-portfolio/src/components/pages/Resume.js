@@ -13,17 +13,6 @@ export default function Resume() {
             Here is where my resume would go{" "}
           </h5>
         </div>
-        <div className="row">
-          <div className="d-flex justify-content-center">
-            <a
-              target="_blank"
-              rel="noreferrer"
-              style={styles.shadow}
-            >
-              <img src={resumeImg} alt="resume" style={styles.img} />
-            </a>
-          </div>
-        </div>
       </div>
     </>
   );

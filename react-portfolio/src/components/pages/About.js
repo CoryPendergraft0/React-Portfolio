@@ -1,5 +1,4 @@
 import React from "react";
-import myself from "../../assets/images/self.jpeg";
 
 const styles = {
   myimg: {
@@ -22,7 +21,7 @@ export default function About() {
       <div className="min-vh-100">
         <div className="row m-2 p-3">
           <div className="d-flex justify-content-center mb-3">
-            <img src={myself} alt="me" style={styles.myimg} />
+            
           </div>
           <div
             className="d-flex justify-content-evenly text-center"
