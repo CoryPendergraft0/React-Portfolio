@@ -1,0 +1,10 @@
+header {
+    color: black;
+    background-color: beige;
+    padding: 1rem;
+}
+
+.name {
+    margin: 1rem;
+    padding: 1rem;
+}
